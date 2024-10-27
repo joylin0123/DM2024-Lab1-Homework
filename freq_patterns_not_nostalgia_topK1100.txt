@@ -1,0 +1,1100 @@
+the:405 
+this:353 
+and:311 
+to:277 
+of:260 
+song:250 
+is:216 
+in:204 
+it:195 
+this	song:185 
+the	this:184 
+the	of:183 
+the	and:179 
+that:171 
+my:162 
+the	to:159 
+you:156 
+this	and:155 
+the	in:149 
+and	to:142 
+this	to:140 
+love:131 
+the	is:130 
+this	is:126 
+the	song:124 
+this	of:124 
+music:123 
+for:122 
+was:121 
+and	of:121 
+so:116 
+and	is:110 
+the	that:109 
+the	it:108 
+this	it:108 
+this	in:107 
+and	song:106 
+have:104 
+one:104 
+to	of:103 
+but:101 
+like:98 
+and	in:97 
+with:96 
+to	it:95 
+this	the	song:94 
+and	it:94 
+and	the	of:92 
+this	my:92 
+to	song:92 
+of	song:89 
+all:87 
+not:87 
+this	the	and:87 
+and	the	to:87 
+song	it:86 
+great:85 
+can:85 
+on:84 
+me:83 
+the	for:83 
+of	in:83 
+and	that:82 
+to	in:82 
+to	that:82 
+what:81 
+the	you:81 
+to	is:81 
+this	the	of:80 
+the	my:80 
+and	my:80 
+be:79 
+to	the	of:79 
+voice:78 
+beautiful:78 
+he:78 
+and	this	to:78 
+and	this	song:78 
+of	is:78 
+just:77 
+this	that:77 
+this	the	to:76 
+this	you:76 
+song	is:76 
+to	this	song:75 
+this	the	is:74 
+this	the	in:74 
+of	the	in:74 
+the	one:74 
+of	one:74 
+and	the	in:73 
+the	music:73 
+the	was:73 
+and	you:73 
+time:72 
+this	love:72 
+is	it:72 
+is	that:72 
+songs:71 
+is	in:69 
+when:68 
+of	this	song:68 
+of	it:68 
+the	love:67 
+the	but:67 
+song	this	it:67 
+to	you:67 
+the	have:66 
+to	my:66 
+and	the	is:65 
+the	with:65 
+and	music:65 
+song	in:65 
+song	love:65 
+will:64 
+and	love:64 
+in	it:64 
+her:63 
+to	the	in:63 
+the	so:63 
+this	music:63 
+and	so:63 
+in	that:63 
+of	the	is:62 
+this	for:62 
+they:61 
+as:61 
+and	this	is:61 
+of	that:61 
+from:60 
+of	the	song:60 
+the	all:60 
+this	was:60 
+this	so:60 
+this	like:60 
+of	my:60 
+song	my:60 
+she:59 
+to	the	it:59 
+song	this	is:59 
+this	have:59 
+to	and	of:59 
+and	for:59 
+and	this	of:58 
+and	was:58 
+are:57 
+and	this	it:57 
+to	this	it:57 
+this	but:57 
+to	the	that:56 
+of	the	one:56 
+the	great:56 
+the	on:56 
+to	love:56 
+at:55 
+this	the	that:55 
+and	the	it:55 
+and	the	that:55 
+the	be:55 
+of	you:55 
+it	that:55 
+no:54 
+this	the	it:54 
+to	and	it:54 
+song	that:54 
+in	my:54 
+to	the	is:53 
+is	the	in:53 
+the	can:53 
+song	this	in:53 
+of	for:53 
+it	love:53 
+never:52 
+know:52 
+his:52 
+and	the	song:52 
+in	the	that:52 
+and	but:52 
+always:51 
+now:51 
+song	this	my:51 
+this	with:51 
+and	one:51 
+to	for:51 
+to	all:51 
+of	music:51 
+song	so:51 
+good:50 
+and	the	my:50 
+is	the	that:50 
+to	and	is:50 
+of	love:50 
+song	you:50 
+is	you:50 
+who:49 
+much:49 
+to	and	the	of:49 
+of	the	it:49 
+of	the	that:49 
+the	time:49 
+this	me:49 
+and	have:49 
+is	my:49 
+really:48 
+about:48 
+is	the	it:48 
+the	not:48 
+and	this	in:48 
+and	this	my:48 
+this	one:48 
+and	voice:48 
+to	so:48 
+to	have:48 
+of	so:48 
+in	you:48 
+it	was:48 
+ever:47 
+of	this	the	song:47 
+to	the	song:47 
+in	the	it:47 
+the	just:47 
+to	this	of:47 
+to	this	is:47 
+to	and	song:47 
+and	with:47 
+to	be:47 
+of	but:47 
+is	but:47 
+how:46 
+if:46 
+by:46 
+and	this	the	to:46 
+song	the	is:46 
+the	what:46 
+song	this	love:46 
+this	on:46 
+of	and	in:46 
+and	all:46 
+best:45 
+and	the	you:45 
+song	the	in:45 
+this	can:45 
+to	and	that:45 
+and	great:45 
+is	so:45 
+it	my:45 
+it	you:45 
+it	for:45 
+that	you:45 
+and	the	for:44 
+the	from:44 
+to	this	in:44 
+of	this	is:44 
+to	and	in:44 
+song	and	it:44 
+to	music:44 
+to	but:44 
+in	was:44 
+you	for:44 
+would:43 
+more:43 
+we:43 
+don:43 
+thank:43 
+has:43 
+think:43 
+only:43 
+of	the	for:43 
+the	songs:43 
+and	this	that:43 
+to	this	that:43 
+and	what:43 
+to	one:43 
+is	love:43 
+still:42 
+out:42 
+this	the	you:42 
+of	and	the	in:42 
+and	the	music:42 
+the	me:42 
+the	they:42 
+the	at:42 
+to	was:42 
+of	was:42 
+in	for:42 
+and	this	the	of:41 
+song	the	it:41 
+the	he:41 
+of	this	in:41 
+this	great:41 
+this	when:41 
+to	and	my:41 
+is	and	that:41 
+to	like:41 
+of	all:41 
+is	music:41 
+in	one:41 
+very:40 
+to	this	the	song:40 
+this	the	my:40 
+this	the	for:40 
+this	the	but:40 
+of	the	you:40 
+the	like:40 
+and	this	you:40 
+is	this	in:40 
+in	this	it:40 
+this	not:40 
+of	and	is:40 
+song	and	is:40 
+and	like:40 
+song	to	it:40 
+song	for:40 
+song	beautiful:40 
+in	but:40 
+and	this	the	song:39 
+and	the	but:39 
+it	the	that:39 
+the	beautiful:39 
+the	as:39 
+the	are:39 
+song	and	this	it:39 
+to	this	my:39 
+to	this	you:39 
+song	this	so:39 
+this	just:39 
+is	and	it:39 
+and	can:39 
+and	on:39 
+and	me:39 
+and	beautiful:39 
+and	her:39 
+of	have:39 
+of	songs:39 
+it	so:39 
+am:38 
+hear:38 
+these:38 
+this	the	have:38 
+and	the	was:38 
+and	the	so:38 
+and	the	one:38 
+in	the	my:38 
+in	the	one:38 
+the	voice:38 
+the	best:38 
+to	and	this	song:38 
+song	this	you:38 
+is	this	it:38 
+is	this	that:38 
+this	time:38 
+of	and	song:38 
+and	he:38 
+of	to	in:38 
+to	great:38 
+of	great:38 
+song	was:38 
+is	for:38 
+in	love:38 
+in	music:38 
+in	so:38 
+in	with:38 
+that	but:38 
+you	thank:38 
+there:37 
+up:37 
+could:37 
+and	this	the	is:37 
+to	the	you:37 
+to	the	be:37 
+of	the	my:37 
+of	the	music:37 
+the	will:37 
+and	this	love:37 
+song	to	this	it:37 
+song	this	that:37 
+to	and	you:37 
+to	and	love:37 
+of	and	it:37 
+and	at:37 
+is	to	that:37 
+in	to	that:37 
+of	like:37 
+that	for:37 
+my	love:37 
+an:36 
+do:36 
+listen:36 
+had:36 
+of	this	the	in:36 
+this	the	so:36 
+and	the	love:36 
+and	the	have:36 
+and	the	with:36 
+and	the	all:36 
+to	the	have:36 
+to	the	one:36 
+to	the	all:36 
+of	the	but:36 
+in	the	for:36 
+in	the	was:36 
+the	when:36 
+the	who:36 
+the	about:36 
+the	ever:36 
+the	by:36 
+of	this	one:36 
+this	all:36 
+song	and	my:36 
+and	she:36 
+to	with:36 
+to	not:36 
+to	me:36 
+song	have:36 
+is	not:36 
+it	but:36 
+you	love:36 
+singer:35 
+many:35 
+old:35 
+here:35 
+and	this	the	in:35 
+song	this	the	is:35 
+song	this	the	in:35 
+this	the	music:35 
+this	the	one:35 
+to	and	the	in:35 
+of	to	the	in:35 
+to	the	for:35 
+in	the	you:35 
+song	this	for:35 
+it	this	love:35 
+of	and	one:35 
+and	not:35 
+and	from:35 
+is	to	it:35 
+in	to	it:35 
+to	her:35 
+song	like:35 
+in	have:35 
+that	so:35 
+that	one:35 
+too:34 
+such:34 
+this	the	love:34 
+to	and	the	it:34 
+in	the	but:34 
+and	this	so:34 
+to	this	love:34 
+of	this	it:34 
+is	this	my:34 
+this	at:34 
+of	and	that:34 
+is	and	in:34 
+and	be:34 
+and	just:34 
+of	to	is:34 
+is	of	in:34 
+of	time:34 
+song	with:34 
+is	one:34 
+that	was:34 
+to	this	the	of:33 
+of	this	the	is:33 
+this	the	with:33 
+to	and	the	that:33 
+to	the	my:33 
+of	the	so:33 
+of	the	have:33 
+of	the	great:33 
+is	the	you:33 
+the	she:33 
+the	more:33 
+the	we:33 
+the	only:33 
+to	and	this	it:33 
+in	this	my:33 
+this	be:33 
+this	beautiful:33 
+this	never:33 
+and	time:33 
+of	to	song:33 
+of	to	it:33 
+of	to	one:33 
+to	what:33 
+song	of	is:33 
+is	of	that:33 
+of	me:33 
+of	what:33 
+of	just:33 
+song	me:33 
+it	not:33 
+it	on:33 
+my	was:33 
+you	have:33 
+was	he:33 
+him:32 
+get:32 
+video:32 
+today:32 
+been:32 
+to	this	the	it:32 
+to	and	the	is:32 
+of	and	the	is:32 
+and	the	great:32 
+in	to	the	that:32 
+is	of	the	in:32 
+of	the	love:32 
+of	the	was:32 
+it	the	for:32 
+the	her:32 
+the	know:32 
+of	this	my:32 
+to	and	all:32 
+song	and	love:32 
+and	songs:32 
+it	to	that:32 
+to	can:32 
+to	on:32 
+to	listen:32 
+of	with:32 
+it	song	love:32 
+in	is	that:32 
+is	have:32 
+is	what:32 
+it	one:32 
+that	have:32 
+listening:31 
+most:31 
+people:31 
+and	this	the	that:31 
+to	this	the	in:31 
+to	this	the	that:31 
+song	this	the	it:31 
+is	this	the	in:31 
+and	the	at:31 
+to	the	love:31 
+of	the	all:31 
+song	the	that:31 
+is	the	so:31 
+in	the	music:31 
+in	the	with:31 
+that	the	but:31 
+the	no:31 
+the	really:31 
+the	think:31 
+and	this	music:31 
+and	this	have:31 
+of	this	you:31 
+this	what:31 
+this	no:31 
+to	and	so:31 
+of	and	my:31 
+of	and	love:31 
+of	and	music:31 
+of	and	for:31 
+of	and	so:31 
+in	and	that:31 
+to	beautiful:31 
+in	of	that:31 
+of	be:31 
+of	beautiful:31 
+song	great:31 
+song	just:31 
+it	as:31 
+that	my:31 
+my	but:31 
+heard:30 
+than:30 
+man:30 
+some:30 
+world:30 
+this	the	was:30 
+of	and	the	it:30 
+to	the	but:30 
+the	his:30 
+to	and	this	is:30 
+song	and	this	my:30 
+and	this	but:30 
+to	this	for:30 
+to	this	have:30 
+is	this	you:30 
+is	this	but:30 
+in	this	that:30 
+this	will:30 
+this	from:30 
+this	know:30 
+this	much:30 
+to	and	music:30 
+to	and	have:30 
+is	and	my:30 
+in	and	my:30 
+and	they:30 
+of	to	that:30 
+is	to	in:30 
+to	voice:30 
+to	he:30 
+to	time:30 
+to	when:30 
+to	will:30 
+song	of	it:30 
+in	of	one:30 
+song	but:30 
+song	when:30 
+it	have:30 
+it	just:30 
+that	love:30 
+that	all:30 
+you	like:30 
+version:29 
+sing:29 
+your:29 
+and	this	the	it:29 
+is	this	the	that:29 
+of	and	the	one:29 
+and	the	be:29 
+of	to	the	it:29 
+is	of	the	that:29 
+in	of	the	one:29 
+that	the	you:29 
+the	has:29 
+song	and	this	is:29 
+of	this	that:29 
+of	this	so:29 
+to	and	was:29 
+song	and	in:29 
+is	and	you:29 
+is	and	but:29 
+it	and	my:29 
+it	and	was:29 
+and	will:29 
+to	has:29 
+of	not:29 
+of	can:29 
+of	think:29 
+in	song	it:29 
+song	not:29 
+song	what:29 
+is	as:29 
+in	on:29 
+in	be:29 
+my	you:29 
+but	not:29 
+years:28 
+were:28 
+to	this	the	is:28 
+of	and	the	that:28 
+of	and	the	for:28 
+is	and	the	it:28 
+and	the	can:28 
+of	to	the	is:28 
+of	to	the	one:28 
+to	the	was:28 
+to	the	with:28 
+song	the	love:28 
+in	the	have:28 
+it	the	you:28 
+that	the	one:28 
+to	and	this	of:28 
+of	and	this	song:28 
+and	this	for:28 
+and	this	one:28 
+of	to	this	song:28 
+to	this	so:28 
+of	this	but:28 
+song	this	me:28 
+is	this	love:28 
+it	this	my:28 
+is	and	music:28 
+is	and	so:28 
+in	and	it:28 
+in	and	you:28 
+and	when:28 
+song	to	in:28 
+to	no:28 
+is	of	it:28 
+of	voice:28 
+is	great:28 
+is	when:28 
+in	not:28 
+it	music:28 
+it	all:28 
+it	me:28 
+that	with:28 
+my	me:28 
+you	so:28 
+you	one:28 
+so	much:28 
+heart:27 
+life:27 
+better:27 
+and	this	the	my:27 
+this	the	like:27 
+this	the	all:27 
+this	the	can:27 
+this	the	on:27 
+to	and	the	my:27 
+of	and	the	song:27 
+is	and	the	in:27 
+is	and	the	that:27 
+and	the	from:27 
+in	to	the	it:27 
+to	the	music:27 
+song	of	the	is:27 
+in	of	the	that:27 
+of	the	songs:27 
+is	the	music:27 
+is	the	for:27 
+in	the	so:27 
+it	the	but:27 
+that	the	for:27 
+you	the	for:27 
+the	never:27 
+the	much:27 
+the	singer:27 
+the	video:27 
+the	most:27 
+and	this	was:27 
+and	this	like:27 
+and	this	with:27 
+of	this	music:27 
+song	this	was:27 
+song	this	like:27 
+song	this	when:27 
+is	this	music:27 
+it	this	that:27 
+it	this	for:27 
+it	this	was:27 
+you	this	for:27 
+this	he:27 
+this	they:27 
+this	as:27 
+this	who:27 
+this	we:27 
+song	to	and	it:27 
+to	and	for:27 
+to	and	but:27 
+it	and	that:27 
+that	and	you:27 
+and	are:27 
+and	his:27 
+and	always:27 
+of	to	for:27 
+it	to	love:27 
+to	just:27 
+to	at:27 
+to	now:27 
+song	of	in:27 
+of	never:27 
+song	all:27 
+in	is	it:27 
+is	was:27 
+is	all:27 
+in	time:27 
+it	time:27 
+that	like:27 
+real:26 
+way:26 
+come:26 
+singing:26 
+sad:26 
+of	this	the	one:26 
+in	this	the	it:26 
+this	the	great:26 
+this	the	at:26 
+and	the	on:26 
+and	the	voice:26 
+of	to	the	that:26 
+to	the	so:26 
+to	the	can:26 
+of	the	with:26 
+of	the	just:26 
+song	the	my:26 
+song	the	for:26 
+song	the	so:26 
+in	is	the	that:26 
+is	the	one:26 
+is	the	but:26 
+in	the	love:26 
+it	the	love:26 
+it	the	was:26 
+the	always:26 
+to	and	this	that:26 
+to	and	this	my:26 
+and	this	me:26 
+to	this	like:26 
+song	of	this	is:26 
+of	this	love:26 
+of	this	for:26 
+it	song	this	love:26 
+song	this	have:26 
+song	this	with:26 
+song	this	beautiful:26 
+this	she:26 
+this	think:26 
+of	and	was:26 
+of	and	have:26 
+of	and	great:26 
+song	and	you:26 
+and	as:26 
+and	know:26 
+and	now:26 
+and	by:26 
+it	to	for:26 
+that	to	you:26 
+that	to	but:26 
+to	know:26 
+to	listening:26 
+of	her:26 
+of	as:26 
+song	one:26 
+song	on:26 
+it	is	that:26 
+is	like:26 
+is	be:26 
+in	like:26 
+in	what:26 
+it	like:26 
+it	with:26 
+it	be:26 
+that	music:26 
+that	not:26 
+that	can:26 
+that	be:26 
+my	for:26 
+my	all:26 
+love	for:26 
+music	all:26 
+for	thank:26 
+be	will:26 
+voice	her:26 
+he	his:26 
+god:25 
+did:25 
+nice:25 
+make:25 
+its:25 
+why:25 
+or:25 
+and	this	the	you:25 
+of	this	the	it:25 
+of	this	the	that:25 
+of	and	the	so:25 
+in	and	the	that:25 
+and	the	what:25 
+is	to	the	that:25 
+is	of	the	it:25 
+of	the	what:25 
+of	the	beautiful:25 
+of	the	think:25 
+is	the	my:25 
+that	the	was:25 
+that	the	have:25 
+the	now:25 
+the	good:25 
+the	how:25 
+song	to	and	this	it:25 
+to	and	this	you:25 
+song	and	this	love:25 
+and	this	great:25 
+to	this	all:25 
+is	this	so:25 
+in	this	you:25 
+in	this	but:25 
+my	this	love:25 
+this	about:25 
+this	if:25 
+this	out:25 
+of	to	and	in:25 
+to	and	great:25 
+to	and	be:25 
+to	and	her:25 
+of	and	but:25 
+song	and	that:25 
+song	and	so:25 
+in	and	but:25 
+it	and	love:25 
+it	and	for:25 
+that	and	but:25 
+and	good:25 
+of	to	you:25 
+song	to	is:25 
+song	to	my:25 
+song	to	love:25 
+it	to	my:25 
+it	to	you:25 
+to	songs:25 
+to	they:25 
+to	as:25 
+to	from:25 
+to	are:25 
+to	by:25 
+in	of	it:25 
+of	he:25 
+of	they:25 
+of	she:25 
+of	at:25 
+of	has:25 
+is	song	it:25 
+song	time:25 
+that	is	you:25 
+is	can:25 
+is	her:25 
+in	just:25 
+it	great:25 
+it	what:25 
+that	they:25 
+that	no:25 
+my	music:25 
+my	one:25 
+you	with:25 
+you	all:25 
+you	can:25 
+you	what:25 
+love	music:25 
+music	like:25 
+have	but:25 
+her	she:25 
+any:24 
+then:24 
+day:24 
+wish:24 
+those:24 
+and	this	the	but:24 
+song	this	the	that:24 
+in	this	the	that:24 
+this	the	be:24 
+this	the	time:24 
+of	to	and	the	in:24 
+to	and	the	song:24 
+to	and	the	have:24 
+to	and	the	all:24 
+of	and	the	music:24 
+in	and	the	my:24 
+of	to	the	song:24 
+is	to	the	in:24 
+to	the	great:24 
+in	of	the	it:24 
+of	the	me:24 
+of	the	be:24 
+of	the	time:24 
+song	the	you:24 
+is	the	love:24 
+it	the	my:24 
+it	the	on:24 
+you	the	love:24 
+the	if:24 
+the	don:24 
+the	thank:24 
+the	still:24 
+the	up:24 
+to	and	this	in:24 
+of	and	this	is:24 
+of	and	this	it:24 
+song	and	this	in:24 
+to	this	but:24 
+of	this	like:24 
+in	song	this	it:24 
+is	this	have:24 
+in	this	so:24 
+this	voice:24 
+this	songs:24 
+this	are:24 
+this	more:24 
+this	don:24 
+of	and	you:24 
+of	and	all:24 
+of	and	songs:24 
+is	and	love:24 
+is	and	for:24 
+in	and	was:24 
+it	and	but:24 
+and	never:24 
+and	much:24 
+and	how:24 
+and	thank:24 
+of	to	all:24 
+is	to	love:24 
+to	she:24 
+to	who:24 
+to	how:24 
+song	of	that:24 
+song	of	love:24 
+in	of	my:24 
+of	on:24 
+song	can:24 
+song	be:24 
+song	he:24 
+is	on:24 
+it	in	that:24 
+in	all:24 
+in	from:24 
+that	he:24 
+my	songs:24 
+my	when:24 
+you	music:24 
+you	but:24 
+love	have:24 
+for	was:24 
+for	have:24 
+one	but:24 
+but	like:24 
+to	this	the	have:23 
+song	this	the	my:23 
+song	this	the	love:23 
+this	the	just:23 
+to	and	the	you:23 
+of	and	the	my:23 
+of	and	the	have:23 
+of	and	the	but:23 
+of	and	the	great:23 
+in	and	the	but:23 
+song	to	the	it:23 
+song	of	the	in:23 
+is	the	have:23 
+is	the	all:23 
+is	the	not:23 
+it	the	have:23 
+that	the	my:23 
+that	the	so:23 
+that	the	with:23 
+that	the	can:23 
+you	the	have:23 
+the	out:23 
+the	could:23 
+the	do:23 
+the	today:23 
+the	world:23 
+is	and	this	that:23 
+and	this	can:23 
+and	this	just:23 
+song	to	this	my:23 
+in	to	this	it:23 
+to	this	music:23 
+to	this	great:23 
+to	this	be:23 
+song	of	this	it:23 
+of	this	have:23 
+song	this	but:23 
+song	this	great:23 
+song	this	just:23 
+in	this	love:23 
+this	good:23 
+this	really:23 
+this	how:23 
+this	thank:23 
+this	do:23 
+this	listen:23 
+this	heard:23 
+to	and	me:23 
+to	and	at:23 
+in	and	for:23 
+in	and	so:23 
+in	and	have:23 
+it	and	you:23 
+and	if:23 
+and	more:23 
+and	we:23 
+and	think:23 
+and	very:23 
+and	do:23 
+of	to	love:23 
+of	to	but:23 
+song	to	that:23 
+song	to	so:23 
+is	to	you:23 
+in	to	you:23 
+in	to	have:23 
+to	about:23 
+to	here:23 
+song	of	you:23 
+is	of	but:23 
+it	of	that:23 
+it	of	one:23 
+my	of	one:23 
+of	will:23 
+is	song	in:23 
+is	song	that:23 
+it	song	my:23 
+it	song	was:23 
+it	song	so:23 
+song	music:23 
+song	will:23 
+song	at:23 
+is	he:23 
+in	great:23 
+in	can:23 
+in	songs:23 
+in	they:23 
+it	when:23 
+it	they:23 
+my	have:23 
+for	you	thank:23 
+you	not:23 
+you	be:23 
+you	know:23 
+you	much:23 
+you	if:23 
+for	so:23 
+all	time:23 
